@@ -1,0 +1,4 @@
+Model,Macro_F1
+Naive Bayes,0.589211
+Logistic Regression,0.588958
+Linear SVM,0.580094

@@ -1,0 +1,7 @@
+# Extra requirements for notebooks/llm_inference_finetuning.ipynb (CUDA GPU + Linux only).
+# Install AFTER requirements.txt.   pip install -r requirements.txt -r requirements-llm.txt
+unsloth==2026.10.1                # recorded (cell 109 banner)
+peft==0.21.1                      # recorded (cell 0); cell 4 requested <0.20 - contradictory
+bitsandbytes==0.50.2              # recorded (cell 108)
+trl                               # UNRECORDED: the version used is unknown; SFTTrainer arguments may need adapting
+huggingface-hub==0.36.2           # recorded (pip resolver message, cell 107)

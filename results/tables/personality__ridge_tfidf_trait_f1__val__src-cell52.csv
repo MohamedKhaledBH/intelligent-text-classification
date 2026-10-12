@@ -1,0 +1,6 @@
+Trait,Model,Macro_F1,Time_s
+O,Ridge (TF-IDF),0.5851,135.7
+C,Ridge (TF-IDF),0.5524,135.6
+E,Ridge (TF-IDF),0.5477,139.8
+A,Ridge (TF-IDF),0.5828,129.1
+N,Ridge (TF-IDF),0.6054,128.0

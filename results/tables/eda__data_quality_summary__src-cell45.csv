@@ -1,0 +1,5 @@
+index,Rows,Missing Values,Duplicates,Empty Texts
+Dataset,,,,
+PANDORA Train,1919729,0,158766,0
+Emotions EN,416809,0,22987,0
+Emotions FR,29286,1,374,1

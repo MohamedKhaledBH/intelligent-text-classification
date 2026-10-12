@@ -1,0 +1,7 @@
+Trait,Trait_Name,Macro_F1,Accuracy
+O,Openness,0.5681,0.5683
+C,Conscientiousness,0.5701,0.5704
+E,Extraversion,0.5588,0.559
+A,Agreeableness,0.5875,0.5876
+N,Neuroticism,0.5878,0.5881
+MEAN,mean of 5 traits,0.5745,

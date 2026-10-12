@@ -1,0 +1,16 @@
+Trait,Model,Macro_F1,Accuracy,Time_s
+O,Logistic Regression,0.5812,0.5812,13.6
+O,Naive Bayes,0.5809,0.5809,0.1
+O,Linear SVM,0.5734,0.5734,42.1
+C,Logistic Regression,0.5874,0.5879,16.7
+C,Naive Bayes,0.5883,0.5896,0.1
+C,Linear SVM,0.5792,0.5792,38.7
+E,Logistic Regression,0.5848,0.585,15.3
+E,Naive Bayes,0.5867,0.5874,0.1
+E,Linear SVM,0.5769,0.577,38.1
+A,Logistic Regression,0.598,0.5984,25.7
+A,Naive Bayes,0.5958,0.598,0.1
+A,Linear SVM,0.5862,0.5865,32.7
+N,Logistic Regression,0.5933,0.5957,8.4
+N,Naive Bayes,0.5943,0.599,0.1
+N,Linear SVM,0.5848,0.5862,42.4

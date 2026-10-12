@@ -1,0 +1,5 @@
+index,Samples,Task,Classes / Targets,Main Data Issue
+Dataset,,,,
+PANDORA,2999494,Big Five (OCEAN),5 Continuous / Binary,"Extreme scale (~1.9M), duplicated texts, short..."
+Emotions EN,416809,Emotion Classification,6 classes,Severe class imbalance (joy/sadness dominate)
+Emotions FR,29286,Emotion Classification,6 classes,"Class imbalance, potential translation artifacts"
