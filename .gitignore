@@ -1,0 +1,54 @@
+# Python / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Data (never commit datasets - see README "Dataset acquisition")
+data/
+datasets/
+cache/
+*.csv
+*.tsv
+*.parquet
+*.jsonl
+*.arrow
+# ...except the small result tables exported under results/tables
+!results/tables/*.csv
+
+# Model checkpoints, embeddings and training artefacts
+checkpoints/
+embeddings/
+*.pt
+*.pth
+*.h5
+*.safetensors
+*.bin
+*.npy
+*.npz
+bert_mt/
+bert_mt_final/
+results_dair_bert_cpu/
+camembert_out/
+unsloth_*/
+outputs/
+wandb/
+lightning_logs/
+
+# Private working material: the original notebook still contains Colab paths, a personal
+# Weights & Biases account name in one output, and ~340 KB of widget metadata.
+# Remove this rule ONLY after sanitising / deciding to publish it (see REFACTORING_REPORT.md).
+archive/
+
+# Secrets
+*.pem
+*.key
+.netrc
+credentials*.json
